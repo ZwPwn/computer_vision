@@ -1,0 +1,9 @@
+# Dependencies
+numpy
+opencv-contrib-python
+matplotlib
+tensorflow
+keras
+jupyter
+scikit-learn
+pyyaml
